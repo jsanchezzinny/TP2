@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: #faf3e9;
+    color: #50382e;
+    font-size: 2em;
+    text-align: center;
+}
+
+header {
+    background-color: #efd5d5;
+    padding: 4rem 2rem;
+    margin-bottom: 3rem;
+    border-bottom: 2px solid #d6b3a8;
+}
+
+h1 {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+
+header p {
+    font-size: 1em;
+    font-style: italic;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+button {
+    background-color: #50382e;
+    color: #faf3e9;
+    border: none;
+    border-radius: 15px;
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding: 1em;
+    margin: 0 0.5rem 2rem;
+}
+
+.btn_style {
+    background-color: #efd5d5;
+    color: #50382e;
+}
+
+section {
+    margin: 1rem 0 3rem;
+}
+
+section div {
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    padding: 2rem;
+    margin: 1%;
+    background-color: #fffaf5;
+    border: 1px solid #d6b3a8;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    font-size: 2.4rem;
+    margin-bottom: 1.5rem;
+}
+
+section p {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.price {
+    font-size: 2.2rem;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+footer {
+    padding: 2rem;
+    border-top: 1px solid #d6b3a8;
+    font-size: 1.4rem;
+}
+
+.dark {
+    background-color: #2d211d;
+    color: #faf3e9;
+}
+
+.dark header {
+    background-color: #50382e;
+}
+
+.dark section div {
+    background-color: #50382e;
+}
+
+.dark .btn {
+    background-color: #efd5d5;
+    color: #50382e;
+}
