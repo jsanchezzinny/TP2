@@ -12,13 +12,11 @@ function loadMenu() {
                     <p>${product.description}</p>
                     <p class="price">$ ${product.price}</p>
                 </div>
-            `).join(" ");
+            `).join(" "); 
         });
 }
 
-function changeStyles() {
-    document.body.classList.toggle("dark");
-}
+function changeStyles() { document.body.classList.toggle("dark"); }
 
 btn.addEventListener("click", loadMenu);
 btnStyle.addEventListener("click", changeStyles);

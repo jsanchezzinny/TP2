@@ -1,32 +1,27 @@
 [
-    {
-        "name": "Latte",
+    {   "name": "Latte",
         "description": "Café espresso con leche caliente y una suave capa de espuma.",
-        "price": 4200
-    },
+        "price": 4200 },
+
     {
         "name": "Cappuccino",
         "description": "Café espresso con leche, abundante espuma y un toque de cacao.",
-        "price": 4500
-    },
-    {
-        "name": "Iced latte",
+        "price": 4500 },
+
+    {   "name": "Iced latte",
         "description": "Café espresso con leche fría y hielo para una pausa refrescante.",
-        "price": 4600
-    },
+        "price": 4600},
+
     {
         "name": "Croissant",
         "description": "Masa de manteca hojaldrada, dorada por fuera y tierna por dentro.",
-        "price": 3500
-    },
+        "price": 3500},
     {
         "name": "Cookie",
         "description": "Galletita con chips de chocolate, bordes crocantes y centro suave.",
-        "price": 3200
-    },
+        "price": 3200},
     {
         "name": "Cheesecake",
         "description": "Torta de queso con base de galletitas y una salsa de frutos rojos.",
-        "price": 5800
-    }
+        "price": 5800 }
 ]
